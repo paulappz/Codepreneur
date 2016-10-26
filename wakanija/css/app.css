@@ -1,0 +1,116 @@
+  body { background-image: url('../images/Akcity.jpg');
+    background-position: center center;
+      background-repeat: no-repeat;
+       background-attachment: fixed;
+  background-color: #464646;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+       
+         section > div {
+  clear: both;
+  overflow: hidden;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+        section{
+            margin-top: 50px;
+           padding-right:10px;
+           padding-left:10px;
+           
+            
+        }
+        
+       button{
+         
+         
+           width: 100px;
+           height: 35px;
+           display: block;
+	margin: 0 auto;
+	padding: 0;
+	cursor: pointer;
+    border: 2px solid;
+	border-radius: 1.85em;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+    color: black;
+           
+       }
+        .tt-hint,
+        .location{
+            border: 2px solid #CCCCCC;
+            border-radius: 8px 8px 8px 8px;
+            font-size: 14px;
+            height: 35px;
+            line-height: 30px;
+            outline: medium none;
+            padding: 8px 12px;
+            width: 300px;
+            float:left;
+          
+           
+        }
+
+        .tt-hint,
+        .destination{
+            
+            border: 2px solid #CCCCCC;
+            border-radius: 8px 8px 8px 8px;
+            font-size: 14px;
+            height: 35px;
+            line-height: 30px;
+            outline: medium none;
+            padding: 8px 12px;
+            width: 300px;
+            float:right;
+        }
+
+        .tt-dropdown-menu {
+            width: 300px;
+            margin-top: 5px;
+            padding: 8px 12px;
+            
+            background-color: rgba(0, 0, 0, 1); /* red with opacity */
+            border: 1px solid #ccc;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            border-radius: 8px 8px 8px 8px;
+            font-size: 14px;
+            color: #fff;
+            position: absolute;
+             
+           
+        }
+        
+
+#inp{
+    text-align: center
+}
+
+#inp2{
+    text-align: center
+}
+
+#display{
+    margin-top: 20px;
+    
+    
+}
+
+@media (max-width: 749px) {
+    body {
+        padding: 20px 15%;
+    }
+    button {
+        margin: auto;
+    }
+}
+
+@media (min-width: 750px) {
+    button{
+        display: inline-block
+    }
+}
