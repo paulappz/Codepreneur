@@ -1,0 +1,132 @@
+<div id="slider-revolution-slider" class="slider slider-revolution-slider revolution-slider">
+    <div class="shadowWrapper">
+        <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
+            <div id="rev_slider_1_1" class="rev_slider fullwidthbanner">
+                <ul>
+                    <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+                        <div class="tp-caption lfb"
+                             data-x="30"
+                             data-y="13"
+                             data-speed="2000"
+                             data-start="300"
+                             data-easing="easeOutQuint">
+                            <img src="http://placehold.it/400x360" alt="Image1">
+                        </div>
+
+                        <div class="tp-caption main_title lft"
+                             data-x="490"
+                             data-y="71"
+                             data-speed="1000"
+                             data-start="1500"
+                             data-easing="easeOutQuint">
+                            WELCOME to WakaOndo
+                        </div>
+
+                        <div class="tp-caption paragraph lfb"
+                             data-x="500"
+                             data-y="143"
+                             data-speed="1000"
+                             data-start="1800"
+                             data-easing="easeOutQuint">
+                            <p>I’m Paul, and this is a responsive web app to help you navigate nuke and crannies of Ondo State</p>
+                            <p>From Welcome to Akure, to prominent areas and streets across the state.</p>
+                        </div>
+
+                        <div class="tp-caption paragraph_highlighted lfr"
+                             data-x="500"
+                             data-y="232"
+                             data-speed="1000"
+                             data-start="2100"
+                             data-easing="easeOutQuint">
+                            Be different. Be creative. Enjoy Celestino.
+                        </div>
+
+
+                        <div class="tp-caption lfr"
+                             data-x="500"
+                             data-y="300"
+                             data-speed="1200"
+                             data-start="3400"
+                             data-easing="easeOutQuint">
+                            <img src="http://placehold.it/120x120" alt="Image 9">
+                        </div>
+
+                        <div class="tp-caption lfr"
+                             data-x="640"
+                             data-y="300"
+                             data-speed="1200"
+                             data-start="3800"
+                             data-easing="easeOutQuint">
+                            <img src="http://placehold.it/120x120" alt="Image 10">
+                        </div>
+
+                        <div class="tp-caption lfr"
+                             data-x="780"
+                             data-y="300"
+                             data-speed="1200"
+                             data-start="4200"
+                             data-easing="easeOutQuint"  >
+                            <img src="http://placehold.it/120x120" alt="Image 11">
+                        </div>
+
+                        <div class="tp-caption lfr"
+                             data-x="920"
+                             data-y="300"
+                             data-speed="1200"
+                             data-start="4600"
+                             data-easing="easeOutQuint"  >
+                            <img src="http://placehold.it/120x120" alt="Image 12">
+                        </div>
+                    </li>
+                    <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+                        <div class="tp-caption paragraph lfb"
+                             data-x="35"
+                             data-y="0"
+                             data-speed="1200"
+                             data-start="3300"
+                             data-easing="easeOutQuint">
+                            <img src="http://placehold.it/420x270" alt="Image 12">
+                        </div>
+
+                        <div class="tp-caption paragraph lfb"
+                             data-x="35"
+                             data-y="300"
+                             data-speed="1200"
+                             data-start="3300"
+                             data-easing="easeOutQuint">
+                            <a href="#" class="btn btn-xlarge btn-mfast-3">Log-in &amp; Sign-up</a>
+                        </div>
+
+                        <div class="tp-caption lfb"
+                             data-x="500"
+                             data-y="0"
+                             data-speed="900"
+                             data-start="2000"
+                             data-easing="easeOutQuint"  >
+                            <img src="http://placehold.it/600x480" alt="Image 5">
+                        </div>
+                    </li>
+                    <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+                        <div class="tp-caption lfl"
+                             data-x="35"
+                             data-y="0"
+                             data-speed="1000"
+                             data-start="4200"
+                             data-easing="easeOutQuint"  >
+                            <img src="http://placehold.it/550x320" alt="Image 14">
+                        </div>
+
+                        <div class="tp-caption lfb"
+                             data-x="600"
+                             data-y="0"
+                             data-speed="1500"
+                             data-start="5000"
+                             data-easing="easeOutQuint"  >
+                            <img src="http://placehold.it/600x480" alt="Image 16">
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
