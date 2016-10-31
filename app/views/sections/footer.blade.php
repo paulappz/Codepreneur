@@ -120,3 +120,4 @@
 <script type='text/javascript' src='js/jquery.themepunch.plugins.min.js'></script>
 <script type='text/javascript' src='js/jquery.themepunch.revolution.js'></script>
 <script type="text/javascript" src="{{ asset('js/slideshow.js') }}"></script>
+<script src="js/app.js"></script>

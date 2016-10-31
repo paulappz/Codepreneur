@@ -12,7 +12,9 @@
 
     <link rel="stylesheet" href="sliders/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="all" />  
     <link rel="stylesheet" href="sliders/revolution-slider/rs-plugin/css/captions.css" type="text/css" media="all" /> 
-
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-resource.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-route.min.js"></script>
 
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
