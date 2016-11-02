@@ -48,6 +48,9 @@ a:hover, .sidebar a {
     color: #030303;
 }
 
+h1 { margin-bottom: 25px; }
+h2 { margin-bottom: 18px; }
+
 .line { border-top:1px solid #CFCFCF }
 .space { height:30px }
 body .last, body .widget-last { margin-right:0; padding-right:0 !important; border-right:0; }
@@ -56,7 +59,7 @@ body .last-row { margin-bottom:0; }
 .not-logged-in .not__logged_in { display:none !important; }
 
 p, li, address, dd, blockquote, td, th, a,
-body, h1, h2, h3, h4, h5, h6, p, dl, ul, ol,
+body, dl, ul, ol,
 .paragraph-links a, #respond input, #respond textarea, #respond p label {
     color: #5f5e5e;
     font-family: 'Maven Pro', 'Verdana', 'Arial', sans-serif;
@@ -72,10 +75,7 @@ pre { margin-bottom: 10px; margin-top: 10px; }
 .sidebar-right .sidebar, .sidebar-left .content { float: right; }
 
 /* ===== HEADINGS ===== */
-h1, h2, h3, h4, h5, h6,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-	font-size: 12px;
-}
+
 h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color: #C86F06; }
 
 

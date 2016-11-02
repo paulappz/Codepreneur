@@ -27,6 +27,7 @@ angular.module('WakaOndo', ['ngRoute',])
 .controller('LoginController', function() {
 
 })
+.controller('SignupController', function() {})
 .controller('NavigationController', ['$scope', '$location', function($scope, $location) {
   $scope.items = [
     {path: '/', title: 'Home'},
