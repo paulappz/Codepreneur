@@ -14,6 +14,6 @@
 		</div>
 	</div>
 	<div class="border-header"></div>
-	<div ng-view>
+	<div ng-view class="container">
     </div>
 @endsection
