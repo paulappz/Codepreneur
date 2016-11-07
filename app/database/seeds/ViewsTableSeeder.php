@@ -23,7 +23,6 @@ class ViewsTableSeeder extends Seeder {
             ['code'=>'OJAO02', 'view'=>'images/views/wakaimg.jpg'],
             ['code'=>'AKSLGA', 'view'=>'images/views/wakaimg.jpg'],
             ['code'=>'ROADBLK01', 'view'=>'images/views/wakaimg.jpg'],
-            ['code'=>'ROADBLK01', 'view'=>'images/views/wakaimg.jpg'],
         ];
 
         $viewsWithPlaces = array_map(function($view) {
