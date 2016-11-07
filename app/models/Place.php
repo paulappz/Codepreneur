@@ -5,6 +5,7 @@ class Place extends Eloquent {
         'name', 'route', 'fair_price', 'transport_mode',
         'way', 'duration', 'code', 'road',
     ];
+    protected $hidden = ['area_id'];
 
     function area() {
         return $this->belongsTo('Area');
